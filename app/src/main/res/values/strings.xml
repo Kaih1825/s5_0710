@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">s5_0710</string>
+    <string name="reg">註冊</string>
+    <string-array name="country">
+        <item>繁體中文（臺灣）</item>
+        <item>English(US)</item>
+    </string-array>
+</resources>
